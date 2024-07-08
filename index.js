@@ -28,9 +28,6 @@ const createServerP=(PORT)=>{
 
 createServerP(3001);
 
-createServerP(3002);
-
-createServerP(3003);
 
 
 
